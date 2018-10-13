@@ -11,7 +11,19 @@
 
 .column{
     float: left;
-    background-color: aqua;
-    size: 50%
+    background-color: black;
+    height: 500px;
+    width:200px;
+    border: 2px;
+    border-style: dashed;
+    color: antiquewhite;
+    align-self: center;
     
+}
+
+.column1{
+    margin-right: 2px;
+    
+
+
 }
