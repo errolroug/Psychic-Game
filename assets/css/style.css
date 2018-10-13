@@ -1,0 +1,17 @@
+
+.title{
+    text-align: center;
+    
+}
+
+.subhead{
+    text-align: center;
+}
+
+
+.column{
+    float: left;
+    background-color: aqua;
+    size: 50%
+    
+}
